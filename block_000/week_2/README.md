@@ -5,9 +5,9 @@
 
 ### Findings:
 
-- [Group 1 report](/Dhurv.Kat.Amanusk.pdf)
+- [Group 1 report](https://github.com/yacademy/audits/blob/main/block_000/week_2/Dhurv.Kat.Amanusk.pdf)
 
-- [Group 2 report](/Nibbler.bebis.Zokunei.Carl.pdf)
+- [Group 2 report](https://github.com/yacademy/audits/blob/main/block_000/week_2/Nibbler.bebis.Zokunei.Carl.pdf)
 
 
 - Context Issues

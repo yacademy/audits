@@ -6,9 +6,9 @@
 
 ### Findings:
 
-- [Group 1 report](/Dhruv.Nibbler.Redbeard)
+- [Group 1 report](https://github.com/yacademy/audits/blob/main/block_000/week_3/Dhruv.Nibbler.Redbeard)
   
-- [Group 2 report](/Bebis.Goober.BMApprentices.pdf)
+- [Group 2 report](https://github.com/yacademy/audits/blob/main/block_000/week_3/Bebis.Goober.BMApprentices.pdf)
 
 - Protecting against VAR shocks
     - Tolerating a 210% c-ratio would mean a 39% drawdown would liquidate an ETH-A pool, 29% an ETH-B pool, and 17% an ETH-C pool. Under extreme conditions, this would potentially liquidate the underlying collateral in under a day if measures aren’t taken to protect the funds, which would result in significant losses. Not quite disaster resistant.

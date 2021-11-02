@@ -6,7 +6,8 @@
 ### Findings:
 
 
-[Group 1](/group1.pdf), [Group2](/group2.pdf), [Group 3](/group3.pdf)
+[Group 1](https://github.com/yacademy/audits/blob/main/block_000/week_1/group1.pdf), [Group2](https://github.com/yacademy/audits/blob/main/block_000/week_1/group2.pdf), [Group 3](https://github.com/yacademy/audits/blob/main/block_000/week_1/group3.pdf)
+
 
 
 - Potential for impermanent loss
