@@ -5,11 +5,14 @@
   
 ### Findings:
 
+
+[Group 1](/group1.pdf), [Group2](/group2.pdf), [Group 3](/group3.pdf)
+
+
 - Potential for impermanent loss
     - Impermanent loss scales exponentially in a two-sided automated market maker
     - Because volatility begets volatility, the strategy could end up in a situation
-    - As a result, if the pool is continuously rebalanced to a fixed value, IL will be
-    - Realized without the benefit of gains from swaps, or in worst case, repeatedly realizing IL
+    - As a result, if the pool is continuously rebalanced to a fixed value, IL will be realized without the benefit of gains from swaps, or in worst case, repeatedly realizing IL
     - Apparent reason, the strategy could use a volatility index to determine if a pool should be
     - repopulated the pool after pulling out assets in adjust position.
     - (We are still investigating this potential issue)

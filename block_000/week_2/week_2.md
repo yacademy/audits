@@ -5,17 +5,20 @@
 
 ### Findings:
 
+- [Group 1 report](/Dhurv.Kat.Amanusk.pdf)
+
+- [Group 2 report](/Nibbler.bebis.Zokunei.Carl.pdf)
+
+
 - Context Issues
-    - Use of msg.sender throughout - vault should better control context in general msgSender()
-    - No way to account for tokens sent to the strategy by means not pre-determined by vault logic. Whether through air drops or mistakes, capturing value that enters the vault ecosystem unpredictably is quality UX
-    - In lockedProfit, profitUnlockDelay can be changed before all existing profits are unlocked, either put a cap on profitUnlockDelay or require block.timestamp>=lastHarvest+profitUnlockDelay before being able to update
+    - Use of `msg.sender` throughout - vault should better control context, in general `msgSender()`
+    - No way to account for tokens sent to the strategy by means not pre-determined by vault logic. Whether through airdrops or mistakes, capturing value that enters the vault ecosystem unpredictably is quality UX
+    - In `lockedProfit`, `profitUnlockDelay` can be changed before all existing profits are unlocked, either put a cap on `profitUnlockDelay` or `require block.timestamp>=lastHarvest + profitUnlockDelay` before being able to update
 - Withdraw/Redeem
-    - Withdraw/redeem do not call harvest or otherwise check whether there were losses or gains before allowing people to withdraw/redeem. At best, users have to remember to call harvest before they withdraw/redeem. At worst, this allows users to skip out on any losses that may have occurred before they withdraw/redeem.
-- Harvest / trust system / auth
     - Withdraw/redeem do not call harvest or otherwise check whether there were losses or gains before allowing people to withdraw/redeem. At best, users have to remember to call harvest before they withdraw/redeem. At worst, this allows users to skip out on any losses that may have occurred before they withdraw/redeem.
 - deposit/withdraw to/from strategy
     - Should maybe not allow invalid deposits/withdraws - validate inputs
-    - There should be a way to validate the totalStrategyHoldings before updating state - a function that recalcs every time by calling dependencies and whatnot and determining how many tokens are TRULY in the system
+    - There should be a way to validate the `totalStrategyHoldings` before updating state - a function that recalcs every time by calling dependencies and whatnot and determining how many tokens are TRULY in the system
     - WTF is mint???? There is approval but no transfer
     - There isn’t any pushing or popping of strategies from the queue, so a lot of dependent processes are disjointed
     - Same issues for withdraw
