@@ -6,11 +6,9 @@ Audit reports (note some reports are kept private upon request from clients):
 
 Audits underway during April-May-June 2022:
 
-### 4. Morph
-### 5. Manifold
-### 6. JonesDAO
-### 7. Sushi Gurad
-### 8. Olympus (recurring)
-
-
-
+### 4. Yearn
+### 5. Morph
+### 6. Manifold
+### 7. JonesDAO
+### 8. Sushi Gurad
+### 9. Olympus (recurring)
