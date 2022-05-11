@@ -9,7 +9,7 @@ Audits underway during April-May-June 2022:
 ### 4. Morph
 ### 5. Manifold
 ### 6. JonesDAO
-### 7. Sushi Gurad
+### 7. Sushi Guard
 ### 8. Olympus (recurring)
 
 
