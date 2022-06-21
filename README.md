@@ -7,12 +7,9 @@ Audit reports (note some reports are kept private upon request from clients):
 ### 5. [Morpho by residents](https://github.com/yacademy/audits/blob/main/Morpho/yAcademy_morpho_review.pdf)
 ### 6. [Ohm Bond by residents](https://github.com/yacademy/audits/blob/main/Olympus_DAO/yAcademy_ohm_bond_review.pdf)
 
-Audits underway during April-May-June 2022:
+Audits underway June 2022 & beyond:
 
 |Protocol|
 |--------|
-|Morph|
-|Manifold|
 |JonesDAO|
-|Sushi Guard|
 |Olympus (recurring)|
