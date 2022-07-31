@@ -12,7 +12,7 @@ Audit reports (note some reports are kept private upon request from clients):
 ### 4. [Ohm Bond by residents](https://github.com/yacademy/audits/blob/main/Olympus_DAO/yAcademy_ohm_bond_review.pdf)
 ### 5. [Manifold OpenMEV by residents](https://github.com/yacademy/audits/blob/main/Manifold/yAcademy_OpenMEV_review.pdf)
 ### 6. [Ohm Incur debt by residents](https://github.com/yacademy/audits/blob/main/Olympus_DAO/yAcademy_Ohm_IncurDebt_review.pdf)
-### 9. [Yearn joint by residents](https://github.com/yacademy/audits/blob/main/Yearn/yAcademy_joint_strategy_review.pdf)
+### 7. [Yearn joint by residents](https://github.com/yacademy/audits/blob/main/Yearn/yAcademy_joint_strategy_review.pdf)
 
 Audits underway:
 
