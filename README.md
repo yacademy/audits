@@ -1,9 +1,9 @@
 Audit reports (note some reports are kept private upon request from clients):
 
 ## YAcademy blocks:
-### 1. [Audits From Fellowship Block 0 (pilot), x4](https://github.com/yacademy/audits/tree/main/block_000)
-### 2. [Audits From Fellowship Block 1, x4](https://github.com/yacademy/audits/tree/main/block_001)
-### 3. [Audits From Fellowship Block 2, x4](https://github.com/yacademy/audits/tree/main/block_002)
+### 1. [Audits From Fellowship Block 1 (pilot), x4](https://github.com/yacademy/audits/tree/main/block_000)
+### 2. [Audits From Fellowship Block 2, x4](https://github.com/yacademy/audits/tree/main/block_001)
+### 3. [Audits From Fellowship Block 3, x4](https://github.com/yacademy/audits/tree/main/block_002)
 
 ## YAcademy security reviews:
 ### 1. [Ohm Tyche Give by residents](https://github.com/yacademy/audits/tree/main/Olympus_DAO/Tyche_OlympusGive.pdf)
