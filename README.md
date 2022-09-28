@@ -14,7 +14,7 @@ Audit reports (note some reports are kept private upon request from clients):
 ### 6. [Ohm Incur debt by residents](https://github.com/yacademy/audits/blob/main/Olympus_DAO/yAcademy_Ohm_IncurDebt_review.pdf)
 ### 7. [Yearn joint by residents](https://github.com/yacademy/audits/blob/main/Yearn/yAcademy_joint_strategy_review.pdf)
 ### 8. [Timeless Bunni](https://github.com/yacademy/audits/blob/main/Timeless/yAcademy_bunni_review.pdf)
-### 8. [yFu Zemm](https://github.com/yacademy/audits/blob/main/yFu/yAcademy_bunni_review.pdf)
+### 9. [yFu Zemm](https://github.com/yacademy/audits/blob/main/yFu/yAcademy_yFu_NFT_review.pdf)
 
 Audits underway:
 
