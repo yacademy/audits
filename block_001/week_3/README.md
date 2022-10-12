@@ -1,7 +1,7 @@
 
 ### Codebase: 
 
-[Rari Capital Vaults]([Maker Dai Delegate](https://github.com/therealmonoloco/maker-dai-delegate/), commit [aed11a7670df18c6c8a2653021297da4d74cad95](https://github.com/therealmonoloco/maker-dai-delegate/commit/aed11a7670df18c6c8a2653021297da4d74cad95)
+[Maker Dai Delegate](https://github.com/therealmonoloco/maker-dai-delegate/), commit [aed11a7670df18c6c8a2653021297da4d74cad95](https://github.com/therealmonoloco/maker-dai-delegate/commit/aed11a7670df18c6c8a2653021297da4d74cad95)
   
 
 ### Findings:
