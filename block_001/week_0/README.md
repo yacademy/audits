@@ -5,7 +5,7 @@
   
 ### Findings:
 
-- [Kat's report](https://github.com/yacademy/audits/blob/main/block_000/week_0/kat.pdf)
+- [Kat's report](https://github.com/yacademy/audits/blob/yacademy-audits/block_001/week_0/kat.pdf)
 
 - When a user withdraws from a yearn v2 vault, these withdrawals can, if they exceed the reserve of the vault, start withdrawing from individual strategies. The main logic for this is situated in the vault, and uses the strategies liquidatePosition function to divest assets from active strategy positions and return to the vault. Generally speaking any losses accrued through these types of withdrawal are shifted on to the user, by having the yearn strategy satisfying the the following invariant: `_liquidatedAmount + _loss <= _amountNeeded`
 
