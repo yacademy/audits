@@ -4,6 +4,8 @@ Audit reports (note some reports are kept private upon request from clients):
 ### 1. [Audits From Fellowship Block 1 (pilot), x4](https://github.com/yacademy/audits/tree/main/block_001)
 ### 2. [Audits From Fellowship Block 2, x4](https://github.com/yacademy/audits/tree/main/block_002)
 ### 3. [Audits From Fellowship Block 3, x4](https://github.com/yacademy/audits/tree/main/block_003)
+### 3. [Audits From Fellowship Block 4, x4](https://github.com/yacademy/audits/tree/main/block_004)
+### 3. [Audits From Fellowship Block 5, x4](https://github.com/yacademy/audits/tree/main/block_005)
 
 ## YAcademy security reviews:
 ### 1. [Ohm Tyche Give by residents](https://github.com/yacademy/audits/tree/main/Olympus_DAO/Tyche_OlympusGive.pdf)
@@ -15,12 +17,3 @@ Audit reports (note some reports are kept private upon request from clients):
 ### 7. [Yearn joint by residents](https://github.com/yacademy/audits/blob/main/Yearn/yAcademy_joint_strategy_review.pdf)
 ### 8. [Timeless Bunni by residents](https://github.com/yacademy/audits/blob/main/Timeless/yAcademy_bunni_review.pdf)
 ### 9. [yFu Zemm by residents](https://github.com/yacademy/audits/blob/main/yFu/yAcademy_yFu_NFT_review.pdf)
-
-Audits underway:
-
-|Protocol|
-|--------|
-
-|Other|
-|--------|
-Block 4 preparations
